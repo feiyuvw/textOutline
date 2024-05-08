@@ -1,4 +1,2 @@
-TextOutline
-Optimized text outline based mesh for battle.
+ref:https://www.cnblogs.com/GuyaWeiren/p/9665106.html
 ![Image text](1.png)
-ref:https://www.cnblogs.com/lovewaits/p/15588134.html
